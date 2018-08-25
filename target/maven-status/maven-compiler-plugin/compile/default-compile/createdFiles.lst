@@ -1,0 +1,7 @@
+com/argusoft/securitydatabase/init/SpringMvcInitializer.class
+com/argusoft/securitydatabase/init/SpringSecurityInitializer.class
+com/argusoft/securitydatabase/controller/MainController.class
+com/argusoft/securitydatabase/user/User.class
+com/argusoft/securitydatabase/init/AppConfig.class
+com/argusoft/securitydatabase/service/UserService.class
+com/argusoft/securitydatabase/congfiguration/SecurityConfig.class
